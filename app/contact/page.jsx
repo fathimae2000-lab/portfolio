@@ -164,11 +164,11 @@ const Contact = () => {
                   </SelectTrigger>
                   <SelectContent className="bg-zinc-900 border-white/10 text-white">
                     <SelectGroup>
-                      <SelectLabel>Select a service</SelectLabel>
-                      <SelectItem value="web">Web Development</SelectItem>
-                      <SelectItem value="mobile">Mobile App Development</SelectItem>
-                      <SelectItem value="uiux">UI/UX Design</SelectItem>
-                      <SelectItem value="seo">SEO Optimization</SelectItem>
+                      <SelectLabel>Select a project</SelectLabel>
+                      <SelectItem value="crm">CRM Platform</SelectItem>
+                      <SelectItem value="erp">ERP Plaform</SelectItem>
+                      <SelectItem value="ecommerce">FullStack Ecommerce</SelectItem>
+                      <SelectItem value="reactjs">CineMatch Movie App</SelectItem>
                     </SelectGroup>
                   </SelectContent>
                 </Select>
