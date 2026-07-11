@@ -40,12 +40,13 @@ const projects = [
     category: "ERP Platform",
     title: "Library Management",
     description:
-      "CRM is a fully responsive CRM platform that organizes client profiles, communication histories, and live sales pipelines into a clean dashboard. It handles complex async operations like deep searching and instant deal updates perfectly, keeping your business data updated in real time with zero layout lag.",
+      "A simple ERP application built to manage products, customers, and sales through a centralized dashboard. It provides essential business management features with a clean, responsive interface and secure data handling.",
     stack: [
       { name: "React Js" },
       { name: "Tailwind" },
       { name: "Node.js" },
       { name: "MongoDB" },
+      {name :"Express.js"}
     ],
     image: "/erp.png",
     live: "https://small-erp.vercel.app",
