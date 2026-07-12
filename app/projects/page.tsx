@@ -67,7 +67,7 @@ const projects = [
       { name: "Redux" }
     ],
     video: "/assets/fullstack_ecomerce.mp4",
-    live: "",
+    live: "https://fullstack-ecommerce-chi-two.vercel.app",
     github: "https://github.com/fathimae2000-lab/fullstack-ecommerce"
   },
    {
