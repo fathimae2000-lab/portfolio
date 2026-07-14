@@ -32,7 +32,7 @@ const projects = [
       { name: "MongoDB" },
     ],
     image: "/crm.png",
-    live: "https://crm-software-frontend-git-master-fathimae2000-labs-projects.vercel.app/",
+    live: "https://crm-software-frontend-one.vercel.app/",
     github: "https://github.com/fathimae2000-lab/crm_software_frontend",
   },
    {
